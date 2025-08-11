@@ -1,0 +1,16 @@
+{
+    "name": "alexander.albrecht/basics",
+    "autoload": {
+        "psr-4": {
+            "AlexanderAlbrecht\\Basics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.18"
+    }
+}
